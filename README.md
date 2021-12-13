@@ -14,4 +14,10 @@ main.openWindow()
 
 Enjoy!
 
+
+Examples of the results:
+
+![Animation path](https://github.com/craduzz/Maya-MotionPath-Plugin/blob/main/TestAnimation.gif)
+
+![Curve Editing](https://github.com/craduzz/Maya-MotionPath-Plugin/blob/main/TestCurve.gif)
  
